@@ -17,3 +17,4 @@
 ДИАГРАММА ПОСЛЕДОВАТЕЛЬНОСТИ
 ![image](https://github.com/GlebPlaksin/Plaksin-Gleb-BI-236/assets/168733874/db14a202-6718-40dc-807f-291ee88e58b2)
 ДИАГРАММА СОСТОЯНИЙ
+![image](https://github.com/GlebPlaksin/Plaksin-Gleb-BI-236/assets/168733874/5bc5396a-2faa-4394-a369-730506596fb2)
